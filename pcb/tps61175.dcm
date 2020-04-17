@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS61175
+D 3A High-VoltageBoostConverter
+K dc-dc boost regulator
+F http://www.ti.com/lit/ds/symlink/tps61175.pdf
+$ENDCMP
+#
+#End Doc Library
