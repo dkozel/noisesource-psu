@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name tssop14)(type KiCad)(uri ${KIPRJMOD})(options "")(descr ""))
+  (lib (name l_bourns-SRN5040)(type KiCad)(uri ${KIPRJMOD}/l_bourns-SRN5040.pretty)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri C:/Users/derek/Source/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
 )
